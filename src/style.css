@@ -1,0 +1,28 @@
+body {
+  background: #f8e8a6;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  color: green;
+  margin: 0 10px;
+}
+
+.croissant-web {
+  color: #a97601;
+}
